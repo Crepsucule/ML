@@ -23,6 +23,7 @@
 
 패딩 : 사방을 특정 값으로 채우는 것(0으로 채우면 제로패딩)
 
+![1](https://github.com/Crepsucule/ML/assets/86185735/bd4733dd-a442-4daa-83d1-320fee0f85f6)
 
 Zero Padding 적용 및 Stride가 1인 경우의 합성곱 연산
 
@@ -45,6 +46,7 @@ Zero Padding 적용 및 Stride가 1인 경우의 합성곱 연산
 이미지를 대상으로 하는 합성곱 층은 3차원으로 표현이 가능하며 **컬러 이미지면 R, G, B 3개의 채널, 흑백 이미지면 하나의 채널 사용**
 
 
+![2](https://github.com/Crepsucule/ML/assets/86185735/5c16cda2-ed9f-49f0-9a32-5e60ca80be21)
 
 특성맵과 컬러채널
 
@@ -63,7 +65,8 @@ Zero Padding 적용 및 Stride가 1인 경우의 합성곱 연산
     - 최대 풀링층보다 성능이 떨어짐
         
     
-        
+        ![3](https://github.com/Crepsucule/ML/assets/86185735/9fa587c4-c3f6-4faf-8980-b84389e75f2d)
+      
         최대 풀링층과 평균 풀링층의 예시
         
 - 전역 평균 풀링층
@@ -76,6 +79,7 @@ Zero Padding 적용 및 Stride가 1인 경우의 합성곱 연산
 ### **CNN 구조**
 
 
+![4](https://github.com/Crepsucule/ML/assets/86185735/7e9c2221-66ea-4222-9f23-e451510d05a9)
 
 CNN 구조
 
